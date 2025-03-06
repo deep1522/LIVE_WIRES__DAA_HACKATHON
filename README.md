@@ -1,0 +1,10 @@
+# LW_DAA_HACKATHON
+
+* ./server/.env
+
+```PORT
+   MONGODB_URI
+   JWT_KEY
+   ROOT_USER
+   ROOT_PASSWORD
+```
